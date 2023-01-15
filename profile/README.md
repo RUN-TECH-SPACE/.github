@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nnorom Christian
+### Hi there 👋 We are RUN TECH SPACe
 
 ---
 
@@ -10,16 +10,16 @@
 
 >**SOCIALS**
 <div id="badges">
-  <a href="https://www.linkedin.com/in/christian-nnorom-63b9a0159/">
+<!--   <a href="https://www.linkedin.com/in/christian-nnorom-63b9a0159/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=borderRadius&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    </a> -->
    <a href="">
   <img src="https://img.shields.io/badge/GitHub-white?style=borderRadius&logo=github&logoColor=black" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.twitter.com/nnoromiv">
+  <a href="https://www.twitter.com/runtechspace">
   <img src="https://img.shields.io/badge/Twitter-blue?style=borderRadius&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nnoromiv&style=color=blue&borderRadius" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=runtechspace&style=color=blue&borderRadius" alt=""/>
 </div>
 
 ---
@@ -28,19 +28,19 @@
   <img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="600" height="300"/>
 </div>
 <h1>
-  WELCOME TO NNOROM'S WORLD
+  WELCOME TO THE WORLD OF RUNTECHSPACE
   <img src-"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt=""/>
 </h1>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+We are the technological community of tomorrow, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Redeemer's University.
 
-- :telescope: I work as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: We teach various technological stacks FRONTEND, BACKEND, UI&UX, CYBERSECURITY, DATA-SCIENCE, and more for building.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing & Graphical design.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In our free time, we solve world problems.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=borderRadius&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nnorom-63b9a0159/)
+- :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=borderRadius&logo=twitter&logoColor=white)](https://www.twitter.com/runtechspace)
 
 ---
 >**TOOLS & LANGUAGES** 🧰 👏
@@ -76,10 +76,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 >**MY STATS** 🔥🧯
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nnoromiv&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=runtechspace&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnoromiv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runtechspace&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
