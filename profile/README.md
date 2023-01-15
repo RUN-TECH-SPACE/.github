@@ -1,4 +1,4 @@
-### Hi there 👋 We are RUN TECH SPACe
+### Hi techy 👋 We are RUN TECH SPACE
 
 ---
 
